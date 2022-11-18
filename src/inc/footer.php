@@ -4,7 +4,11 @@
     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body">
-    ...
+    <div class="row">
+      <div class="col">
+        
+      </div>
+    </div>
   </div>
 </div>
 <footer class="bd-footer py-4 py-md-5 mt-5 bg-light">
